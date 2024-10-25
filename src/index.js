@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Movies from './components/movie/movie';
+import Movies from './components/movie/movies';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
